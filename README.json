@@ -1,7 +1,479 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magnetissimo",
+          "description": "Web application that indexes all popular torrent sites, and saves it to the local database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63957011,
+            "language": "Elixir",
+            "last_commit": "2024-01-19T02:02:21Z",
+            "owner": "sergiotapia",
+            "repo": "magnetissimo",
+            "stars": 3090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "changelog.com",
+          "description": "CMS behind changelog.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48701042,
+            "language": "Elixir",
+            "last_commit": "2026-06-21T16:47:00Z",
+            "owner": "thechangelog",
+            "repo": "changelog.com",
+            "stars": 2768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix Trello",
+          "description": "A Trello replica done with Elixir, Phoenix Framework, Webpack, React and Redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49008041,
+            "language": "JavaScript",
+            "last_commit": "2018-11-09T13:48:45Z",
+            "owner": "bigardone",
+            "repo": "phoenix-trello",
+            "stars": 2495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexpm",
+          "description": "API server and website for Hex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16328245,
+            "language": "Elixir",
+            "last_commit": "2026-08-24T13:40:30Z",
+            "owner": "hexpm",
+            "repo": "hexpm",
+            "stars": 1170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firestorm",
+          "description": "An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77302304,
+            "language": "Elixir",
+            "last_commit": "2023-09-30T20:21:07Z",
+            "owner": "firestormforum",
+            "repo": "firestorm",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cog",
+          "description": "Bringing the power of the command line to chat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49292670,
+            "language": "Elixir",
+            "last_commit": "2021-09-08T19:43:04Z",
+            "owner": "operable",
+            "repo": "cog",
+            "stars": 920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bank Platform",
+          "description": "An example umbrella project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59903606,
+            "language": "Elixir",
+            "last_commit": "2019-09-15T19:50:23Z",
+            "owner": "wojtekmach",
+            "repo": "acme_bank",
+            "stars": 768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExVenture",
+          "description": "A text based MMORPG",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 97041249,
+            "language": "Elixir",
+            "last_commit": "2023-02-14T03:11:55Z",
+            "owner": "oestrich",
+            "repo": "ex_venture",
+            "stars": 672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RemoteRetro",
+          "description": "A real-time application for conducting Agile retrospectives at remoteretro.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76188623,
+            "language": "Elixir",
+            "last_commit": "2026-05-07T19:17:23Z",
+            "owner": "stride-nyc",
+            "repo": "remote_retro",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Constable",
+          "description": "App for posting announcements and having discussions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 30313192,
+            "language": "Elixir",
+            "last_commit": "2021-10-08T12:18:33Z",
+            "owner": "thoughtbot",
+            "repo": "constable",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hashrocket Today I Learned",
+          "description": "A Phoenix project by Hashrocket featuring small posts about technology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74161388,
+            "language": "Elixir",
+            "last_commit": "2025-11-07T20:33:31Z",
+            "owner": "hashrocket",
+            "repo": "tilex",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coincoin",
+          "description": "Blockchain based cryptocurrency proof-of-concept.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94997320,
+            "language": "Elixir",
+            "last_commit": "2018-02-15T12:32:00Z",
+            "owner": "robinmonjo",
+            "repo": "coincoin",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nectar E-Commerce",
+          "description": "E-commerce Elixir/Phoenix project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50830234,
+            "language": "Elixir",
+            "last_commit": "2017-02-09T13:30:20Z",
+            "owner": "vinsol",
+            "repo": "nectarcommerce",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loopa News",
+          "description": "Yet another URL sharing app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76485480,
+            "language": "JavaScript",
+            "last_commit": "2017-01-30T06:58:03Z",
+            "owner": "Angarsk8",
+            "repo": "Loopa-News",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElixirStatus",
+          "description": "Community site for Elixir project/blog post/version updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37824741,
+            "language": "Elixir",
+            "last_commit": "2020-09-03T23:39:23Z",
+            "owner": "rrrene",
+            "repo": "elixirstatus-web",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExChat",
+          "description": "A Slack-like app by Elixir, Phoenix & React (redux)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41599289,
+            "language": "Elixir",
+            "last_commit": "2018-08-28T17:31:38Z",
+            "owner": "tony612",
+            "repo": "exchat",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code Corps",
+          "description": "Elixir/Phoenix API for Code Corps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63497734,
+            "language": "Elixir",
+            "last_commit": "2019-02-08T17:04:03Z",
+            "owner": "code-corps",
+            "repo": "code-corps-api",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authentic Pixels",
+          "description": "Digital goods shop & blog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68797598,
+            "language": "Elixir",
+            "last_commit": "2016-10-04T05:25:37Z",
+            "owner": "bharani91",
+            "repo": "ex-shop",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tune",
+          "description": "Spotify client and browser",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 275180319,
+            "language": "Elixir",
+            "last_commit": "2022-12-28T06:02:12Z",
+            "owner": "fully-forged",
+            "repo": "tune",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sprint Poker",
+          "description": "Online estimation tool for Agile teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40012899,
+            "language": "Elixir",
+            "last_commit": "2017-08-22T08:53:38Z",
+            "owner": "elpassion",
+            "repo": "sprint-poker",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExMoney",
+          "description": "A personal finance app",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 46521673,
+            "language": "JavaScript",
+            "last_commit": "2019-02-17T22:50:57Z",
+            "owner": "gaynetdinov",
+            "repo": "ex_money",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mindwendel",
+          "description": "Brainstorm and upvote ideas and thoughts within your team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 331086181,
+            "language": "Elixir",
+            "last_commit": "2026-08-19T15:35:06Z",
+            "owner": "b310-digital",
+            "repo": "mindwendel",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elixirs",
+          "description": "Job portal for Alchemist.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 37000375,
+            "language": "CSS",
+            "last_commit": "2018-02-05T02:23:50Z",
+            "owner": "rizafahmi",
+            "repo": "elixirjobs",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Startup Job",
+          "description": "An app to search startup jobs scraped from websites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77706369,
+            "language": "Elixir",
+            "last_commit": "2017-05-22T04:03:21Z",
+            "owner": "tsurupin",
+            "repo": "job_search",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EphemeralShare",
+          "description": "A file sharing web app using RTC, React and Phoenix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39002955,
+            "language": "JavaScript",
+            "last_commit": "2023-01-26T16:04:59Z",
+            "owner": "zabirauf",
+            "repo": "ephemeral_share",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Healthlocker",
+          "description": "Inspire and motivate people to stay well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79664415,
+            "language": "Elixir",
+            "last_commit": "2018-06-22T12:16:35Z",
+            "owner": "healthlocker",
+            "repo": "healthlocker",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leather",
+          "description": "A modern money management app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 98346186,
+            "language": "Elixir",
+            "last_commit": "2018-02-05T22:53:21Z",
+            "owner": "nicksergeant",
+            "repo": "leather",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carbon",
+          "description": "Hackable white label CRM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63480281,
+            "language": "Elixir",
+            "last_commit": "2017-01-20T21:25:34Z",
+            "owner": "code3-coop",
+            "repo": "carbon",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loaded Bike",
+          "description": "An app for exploring and sharing bicycle touring routes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82438544,
+            "language": "Elixir",
+            "last_commit": "2018-01-07T04:58:11Z",
+            "owner": "GBH",
+            "repo": "loaded.bike",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExPlayground",
+          "description": "Run Elixir code in your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37435055,
+            "language": "JavaScript",
+            "last_commit": "2016-07-27T12:49:30Z",
+            "owner": "stevedomin",
+            "repo": "ex_playground",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ember Weekend",
+          "description": "Ember Weekend API emberweekend.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52241370,
+            "language": "Elixir",
+            "last_commit": "2021-04-23T23:06:45Z",
+            "owner": "ember-weekend",
+            "repo": "ember-weekend-api",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T13:37:40.590Z",
+    "last_updated": "2026-08-24T14:19:06.379Z",
     "original_repository": "droptheplot/awesome-phoenix",
     "original_repository_id": 85464635,
     "original_repository_sha": "ae4f223933193aae67d747726c254bd65b6ef6f1",
