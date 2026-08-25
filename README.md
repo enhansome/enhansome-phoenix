@@ -8,7 +8,7 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,090 | 🐛 9 | 🌐 Elixir | 📅 2024-01-19 - Web application that indexes all popular torrent sites, and saves it to the local database.
 * [changelog.com ](https://github.com/thechangelog/changelog.com) ⭐ 2,768 | 🐛 8 | 🌐 Elixir | 📅 2026-06-21 - CMS behind [changelog.com](https://changelog.com/).
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) ⭐ 2,495 | 🐛 21 | 🌐 JavaScript | 📅 2018-11-09 - A Trello replica done with Elixir, Phoenix Framework, Webpack, React and Redux.
-* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,170 | 🐛 22 | 🌐 Elixir | 📅 2026-08-24 - API server and website for Hex.
+* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,170 | 🐛 24 | 🌐 Elixir | 📅 2026-08-25 - API server and website for Hex.
 * [Firestorm](https://github.com/dailydrip/firestorm) ⭐ 969 | 🐛 38 | 🌐 Elixir | 📅 2023-09-30 - An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
 * [Cog](https://github.com/operable/cog) ⭐ 920 | 🐛 58 | 🌐 Elixir | 📅 2021-09-08 - Bringing the power of the command line to chat.
 * [Bank Platform](https://github.com/wojtekmach/acme_bank) ⭐ 768 | 🐛 2 | 🌐 Elixir | 📅 2019-09-15 - An example umbrella project.
@@ -34,7 +34,7 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Leather](https://github.com/nicksergeant/leather) ⚠️ Archived - A modern money management app.
 * [Carbon](https://github.com/code3-coop/carbon) ⭐ 52 | 🐛 0 | 🌐 Elixir | 📅 2017-01-20 - Hackable white label CRM.
 * [Loaded Bike](https://github.com/GBH/loaded.bike) ⭐ 50 | 🐛 5 | 🌐 Elixir | 📅 2018-01-07- An app for exploring and sharing bicycle touring routes
-* [ExPlayground](https://github.com/stevedomin/ex_playground) ⭐ 47 | 🐛 1 | 🌐 JavaScript | 📅 2016-07-27 - Run Elixir code in your browser.
+* [ExPlayground](https://github.com/stevedomin/ex_playground) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2016-07-27 - Run Elixir code in your browser.
 * [Ember Weekend](https://github.com/ember-weekend/ember-weekend-api) ⭐ 18 | 🐛 0 | 🌐 Elixir | 📅 2021-04-23 - Ember Weekend API [emberweekend.com](https://emberweekend.com).
 * [Evercam Server](https://github.com/evercam/evercam-server) - Cloud CCTV Server.
 * [Classlab](https://github.com/workshops-de/classlab) - A virtual classroom for workshops.

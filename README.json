@@ -57,7 +57,7 @@
             "archived": false,
             "id": 16328245,
             "language": "Elixir",
-            "last_commit": "2026-08-24T20:21:34Z",
+            "last_commit": "2026-08-25T10:55:07Z",
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1170
@@ -450,7 +450,7 @@
             "last_commit": "2016-07-27T12:49:30Z",
             "owner": "stevedomin",
             "repo": "ex_playground",
-            "stars": 47
+            "stars": 46
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:15:10.447Z",
+    "last_updated": "2026-08-25T13:35:44.637Z",
     "original_repository": "droptheplot/awesome-phoenix",
     "original_repository_id": 85464635,
     "original_repository_sha": "ae4f223933193aae67d747726c254bd65b6ef6f1",
