@@ -57,7 +57,7 @@
             "archived": false,
             "id": 16328245,
             "language": "Elixir",
-            "last_commit": "2026-08-24T13:40:30Z",
+            "last_commit": "2026-08-24T20:21:34Z",
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1170
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:06.379Z",
+    "last_updated": "2026-08-25T06:15:10.447Z",
     "original_repository": "droptheplot/awesome-phoenix",
     "original_repository_id": 85464635,
     "original_repository_sha": "ae4f223933193aae67d747726c254bd65b6ef6f1",
