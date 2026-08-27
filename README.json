@@ -57,7 +57,7 @@
             "archived": false,
             "id": 16328245,
             "language": "Elixir",
-            "last_commit": "2026-08-26T16:56:02Z",
+            "last_commit": "2026-08-27T17:29:43Z",
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1170
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:09.544Z",
+    "last_updated": "2026-08-27T22:36:45.632Z",
     "original_repository_info": {
       "archived": false,
       "id": 85464635,
