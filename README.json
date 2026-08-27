@@ -57,7 +57,7 @@
             "archived": false,
             "id": 16328245,
             "language": "Elixir",
-            "last_commit": "2026-08-26T12:47:35Z",
+            "last_commit": "2026-08-26T16:56:02Z",
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1170
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-19T15:35:06Z",
             "owner": "b310-digital",
             "repo": "mindwendel",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -473,9 +473,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:40:33.422Z",
-    "original_repository": "droptheplot/awesome-phoenix",
-    "original_repository_id": 85464635,
+    "last_updated": "2026-08-27T11:56:09.544Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 85464635,
+      "language": "Elixir",
+      "last_commit": "2023-02-27T15:11:53Z",
+      "owner": "droptheplot",
+      "repo": "awesome-phoenix",
+      "stars": 616
+    },
     "original_repository_sha": "ae4f223933193aae67d747726c254bd65b6ef6f1",
     "enhanced_repository": "enhansome/enhansome-phoenix",
     "enhanced_repository_description": null,
