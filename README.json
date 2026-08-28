@@ -15,8 +15,9 @@
             "last_commit": "2024-01-19T02:02:21Z",
             "owner": "sergiotapia",
             "repo": "magnetissimo",
-            "stars": 3091
-          }
+            "stars": 3092
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "thechangelog",
             "repo": "changelog.com",
             "stars": 2768
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "bigardone",
             "repo": "phoenix-trello",
             "stars": 2495
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 16328245,
             "language": "Elixir",
-            "last_commit": "2026-08-27T17:29:43Z",
+            "last_commit": "2026-08-28T13:42:17Z",
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1170
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "firestormforum",
             "repo": "firestorm",
             "stars": 969
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "operable",
             "repo": "cog",
             "stars": 920
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "wojtekmach",
             "repo": "acme_bank",
             "stars": 768
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "oestrich",
             "repo": "ex_venture",
             "stars": 672
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "stride-nyc",
             "repo": "remote_retro",
             "stars": 585
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "thoughtbot",
             "repo": "constable",
             "stars": 513
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "hashrocket",
             "repo": "tilex",
             "stars": 507
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "robinmonjo",
             "repo": "coincoin",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "vinsol",
             "repo": "nectarcommerce",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "Angarsk8",
             "repo": "Loopa-News",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "rrrene",
             "repo": "elixirstatus-web",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "tony612",
             "repo": "exchat",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "code-corps",
             "repo": "code-corps-api",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "bharani91",
             "repo": "ex-shop",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "fully-forged",
             "repo": "tune",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "elpassion",
             "repo": "sprint-poker",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "gaynetdinov",
             "repo": "ex_money",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "b310-digital",
             "repo": "mindwendel",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "rizafahmi",
             "repo": "elixirjobs",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "tsurupin",
             "repo": "job_search",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "zabirauf",
             "repo": "ephemeral_share",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "healthlocker",
             "repo": "healthlocker",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "nicksergeant",
             "repo": "leather",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "code3-coop",
             "repo": "carbon",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "GBH",
             "repo": "loaded.bike",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "stevedomin",
             "repo": "ex_playground",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         },
         {
           "node_type": "item",
@@ -466,14 +496,15 @@
             "owner": "ember-weekend",
             "repo": "ember-weekend-api",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T22:41:41.451Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:36:45.632Z",
+    "last_updated": "2026-08-28T22:41:41.451Z",
     "original_repository_info": {
       "archived": false,
       "id": 85464635,
