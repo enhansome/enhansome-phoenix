@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web application that indexes all popular torrent sites, and saves it to the local database.",
+            "homepage": null,
             "id": 63957011,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2024-01-19T02:02:21Z",
+            "open_issues": 9,
             "owner": "sergiotapia",
             "repo": "magnetissimo",
-            "stars": 3092
+            "stars": 3092,
+            "topics": [
+              "bittorrent",
+              "p2p",
+              "search-engine",
+              "self-hosted",
+              "torrent"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -26,12 +37,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Changelog makes world-class developer pods. This is our open source platform.",
+            "homepage": "https://changelog.com/posts/changelog-is-open-source",
             "id": 48701042,
             "language": "Elixir",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-21T16:47:00Z",
+            "open_issues": 8,
             "owner": "thechangelog",
             "repo": "changelog.com",
-            "stars": 2768
+            "stars": 2768,
+            "topics": [
+              "cms",
+              "elixir",
+              "hackers",
+              "hacktoberfest",
+              "phoenix",
+              "podcasting",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -42,12 +66,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trello tribute done in Elixir, Phoenix Framework, React and Redux.",
+            "homepage": "https://phoenix-trello.herokuapp.com",
             "id": 49008041,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-09T13:48:45Z",
+            "open_issues": 21,
             "owner": "bigardone",
             "repo": "phoenix-trello",
-            "stars": 2495
+            "stars": 2495,
+            "topics": [
+              "elixir-lang",
+              "phoenix-framework",
+              "phoenix-trello",
+              "reactjs",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -58,12 +93,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API server and website for Hex",
+            "homepage": "https://hex.pm",
             "id": 16328245,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2026-08-28T13:42:17Z",
+            "open_issues": 22,
             "owner": "hexpm",
             "repo": "hexpm",
-            "stars": 1170
+            "stars": 1170,
+            "topics": [
+              "elixir",
+              "hacktoberfest",
+              "phoenix"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -74,12 +118,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.",
+            "homepage": "http://www.firestormforum.org",
             "id": 77302304,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2023-09-30T20:21:07Z",
+            "open_issues": 38,
             "owner": "firestormforum",
             "repo": "firestorm",
-            "stars": 969
+            "stars": 969,
+            "topics": [
+              "dailydrip",
+              "elixir",
+              "elixirsips",
+              "forum",
+              "kickstarter",
+              "phoenix"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -90,12 +146,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bringing the power of the command line to chat",
+            "homepage": "https://book.cog.bot/",
             "id": 49292670,
             "language": "Elixir",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-08T19:43:04Z",
+            "open_issues": 58,
             "owner": "operable",
             "repo": "cog",
-            "stars": 920
+            "stars": 920,
+            "topics": [
+              "bot-framework",
+              "chat-bot",
+              "chatbot",
+              "chatbot-framework",
+              "chatops",
+              "cog",
+              "devops",
+              "elixir-phoenix",
+              "hipchat",
+              "slack",
+              "unix-pipes"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -106,12 +179,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example ☂ project",
+            "homepage": null,
             "id": 59903606,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2019-09-15T19:50:23Z",
+            "open_issues": 2,
             "owner": "wojtekmach",
             "repo": "acme_bank",
-            "stars": 768
+            "stars": 768,
+            "topics": [
+              "app",
+              "bank",
+              "elixir",
+              "phoenix"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -122,12 +205,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Text based MMORPG engine written in Elixir",
+            "homepage": "https://exventure.org",
             "id": 97041249,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2023-02-14T03:11:55Z",
+            "open_issues": 8,
             "owner": "oestrich",
             "repo": "ex_venture",
-            "stars": 672
+            "stars": 672,
+            "topics": [
+              "elixir",
+              "mud",
+              "phoenix",
+              "text-based"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -138,12 +231,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, world-class retrospectives",
+            "homepage": "https://remoteretro.org/",
             "id": 76188623,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2026-05-07T19:17:23Z",
+            "open_issues": 53,
             "owner": "stride-nyc",
             "repo": "remote_retro",
-            "stars": 585
+            "stars": 585,
+            "topics": [
+              "agile",
+              "elixir",
+              "phoenix",
+              "phoenix-channels",
+              "phoenix-framework",
+              "reactjs",
+              "real-time",
+              "redux",
+              "remote",
+              "retrospective",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -154,12 +264,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Better company announcements",
+            "homepage": "https://constable.io",
             "id": 30313192,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2021-10-08T12:18:33Z",
+            "open_issues": 27,
             "owner": "thoughtbot",
             "repo": "constable",
-            "stars": 513
+            "stars": 513,
+            "topics": [
+              "communication",
+              "elixir",
+              "elixir-phoenix",
+              "thoughtbot",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -170,12 +291,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Today I Learned",
+            "homepage": "https://til.hashrocket.com",
             "id": 74161388,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2025-11-07T20:33:31Z",
+            "open_issues": 4,
             "owner": "hashrocket",
             "repo": "tilex",
-            "stars": 507
+            "stars": 507,
+            "topics": [
+              "elixir",
+              "hacktoberfest",
+              "hashrocket",
+              "heroku",
+              "phoenix",
+              "til",
+              "ueberauth"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -186,12 +320,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blockchain based cryptocurrency proof-of-concept built with Elixir. Feedback welcome",
+            "homepage": null,
             "id": 94997320,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2018-02-15T12:32:00Z",
+            "open_issues": 5,
             "owner": "robinmonjo",
             "repo": "coincoin",
-            "stars": 399
+            "stars": 399,
+            "topics": [
+              "blockchain",
+              "cryptocurrency",
+              "elixir",
+              "phoenix"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -202,12 +346,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quest for customizable E-commerce - the Elixir way",
+            "homepage": null,
             "id": 50830234,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2017-02-09T13:30:20Z",
+            "open_issues": 9,
             "owner": "vinsol",
             "repo": "nectarcommerce",
-            "stars": 323
+            "stars": 323,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -218,12 +367,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realtime social news app developed from scratch with Elixir, Phoenix, Vue and Vuex",
+            "homepage": "https://loopa-news.herokuapp.com",
             "id": 76485480,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-30T06:58:03Z",
+            "open_issues": 1,
             "owner": "Angarsk8",
             "repo": "Loopa-News",
-            "stars": 320
+            "stars": 320,
+            "topics": [
+              "elixir",
+              "phoenix",
+              "realtime",
+              "vue",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -234,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community site for Elixir project/blog post/version updates",
+            "homepage": "http://elixirstatus.com",
             "id": 37824741,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2020-09-03T23:39:23Z",
+            "open_issues": 26,
             "owner": "rrrene",
             "repo": "elixirstatus-web",
-            "stars": 285
+            "stars": 285,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -250,12 +415,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(Not maintaining) A Slack-like app by Elixir, Phoenix & React(redux)",
+            "homepage": "https://exchat-example.herokuapp.com/",
             "id": 41599289,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2018-08-28T17:31:38Z",
+            "open_issues": 3,
             "owner": "tony612",
             "repo": "exchat",
-            "stars": 259
+            "stars": 259,
+            "topics": [
+              "chat",
+              "elixir",
+              "im",
+              "phoenix",
+              "slack"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -266,12 +442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elixir/Phoenix API for Code Corps.",
+            "homepage": "https://www.codecorps.org",
             "id": 63497734,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2019-02-08T17:04:03Z",
+            "open_issues": 140,
             "owner": "code-corps",
             "repo": "code-corps-api",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -282,12 +463,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Digital goods shop & blog created using Elixir (Phoenix framework)",
+            "homepage": "https://www.authenticpixels.com",
             "id": 68797598,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2016-10-04T05:25:37Z",
+            "open_issues": 2,
             "owner": "bharani91",
             "repo": "ex-shop",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "blog",
+              "elixir",
+              "phoenix",
+              "shop",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -298,12 +490,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A streamlined Spotify client and browser with a focus on performance and integrations.",
+            "homepage": "https://tune.fullyforged.com",
             "id": 275180319,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2022-12-28T06:02:12Z",
+            "open_issues": 25,
             "owner": "fully-forged",
             "repo": "tune",
-            "stars": 213
+            "stars": 213,
+            "topics": [
+              "elixir",
+              "phoenix",
+              "phoenix-framework",
+              "phoenix-liveview",
+              "spotify",
+              "spotify-api",
+              "spotify-application",
+              "spotify-web-api"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -314,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online estimation tool for Agile teams.",
+            "homepage": "http://sprintpoker.io",
             "id": 40012899,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2017-08-22T08:53:38Z",
+            "open_issues": 0,
             "owner": "elpassion",
             "repo": "sprint-poker",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -330,12 +541,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An [abandoned] self-hosted personal finance app",
+            "homepage": null,
             "id": 46521673,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2019-02-17T22:50:57Z",
+            "open_issues": 6,
             "owner": "gaynetdinov",
             "repo": "ex_money",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "elixir",
+              "personal-finances",
+              "phoenix",
+              "saltedge",
+              "self-hosted",
+              "spectre"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -346,12 +569,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brainstorm, organize, and prioritize ideas effortlessly. Use it as a collaborative planning board or for live brainstormings within your team.",
+            "homepage": "https://www.mindwendel.com",
             "id": 331086181,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-19T15:35:06Z",
+            "open_issues": 45,
             "owner": "b310-digital",
             "repo": "mindwendel",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "brainstorming",
+              "design-thinking",
+              "docker",
+              "elixir",
+              "elixir-phoenix",
+              "ideation",
+              "lean-coffee",
+              "phoenix",
+              "planner",
+              "planner-app",
+              "planner-board",
+              "planning",
+              "task-management",
+              "upvote"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -362,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Job portal for Alchemist",
+            "homepage": "http://jobs.elixirdose.com/",
             "id": 37000375,
             "language": "CSS",
+            "license": null,
             "last_commit": "2018-02-05T02:23:50Z",
+            "open_issues": 10,
             "owner": "rizafahmi",
             "repo": "elixirjobs",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -378,12 +626,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An app to search startup jobs scraped from websites written in Elixir, Phoenix, React and styled-components. ",
+            "homepage": "http://demo.job-search.tsurupin.com/",
             "id": 77706369,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2017-05-22T04:03:21Z",
+            "open_issues": 1,
             "owner": "tsurupin",
             "repo": "job_search",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "elasticsearch",
+              "elixir",
+              "otp",
+              "phoenix",
+              "react",
+              "redux",
+              "scraping",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -394,12 +656,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A file sharing web app using RTC, React and Phoenix",
+            "homepage": null,
             "id": 39002955,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-26T16:04:59Z",
+            "open_issues": 17,
             "owner": "zabirauf",
             "repo": "ephemeral_share",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -410,12 +677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspire and motivate people to stay well.",
+            "homepage": "https://www.healthlocker.uk",
             "id": 79664415,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2018-06-22T12:16:35Z",
+            "open_issues": 182,
             "owner": "healthlocker",
             "repo": "healthlocker",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -426,12 +698,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "💰 A super fast money management app.",
+            "homepage": null,
             "id": 98346186,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2018-02-05T22:53:21Z",
+            "open_issues": 0,
             "owner": "nicksergeant",
             "repo": "leather",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "elixir",
+              "money-manager",
+              "phoenix",
+              "plaid",
+              "react",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -442,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hackable white label CRM",
+            "homepage": null,
             "id": 63480281,
             "language": "Elixir",
+            "license": "NOASSERTION",
             "last_commit": "2017-01-20T21:25:34Z",
+            "open_issues": 0,
             "owner": "code3-coop",
             "repo": "carbon",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -458,12 +747,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phoenix/Elixir web app for exploring and sharing bicycle touring routes",
+            "homepage": "http://loaded.bike",
             "id": 82438544,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2018-01-07T04:58:11Z",
+            "open_issues": 5,
             "owner": "GBH",
             "repo": "loaded.bike",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "elixir",
+              "elixir-phoenix",
+              "phoenix"
+            ]
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -474,12 +772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Elixir code in your browser - http://play.elixirbyexample.com/",
+            "homepage": null,
             "id": 37435055,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-07-27T12:49:30Z",
+            "open_issues": 1,
             "owner": "stevedomin",
             "repo": "ex_playground",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         },
@@ -490,12 +793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ember Weekend API",
+            "homepage": "https://emberweekend.com/",
             "id": 52241370,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2021-04-23T23:06:45Z",
+            "open_issues": 0,
             "owner": "ember-weekend",
             "repo": "ember-weekend-api",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:41.451Z"
         }
@@ -504,15 +812,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:41:41.451Z",
+    "last_updated": "2026-08-29T04:39:51.500Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
+      "homepage": "https://droptheplot.github.io/awesome-phoenix/",
       "id": 85464635,
       "language": "Elixir",
+      "license": "MIT",
       "last_commit": "2023-02-27T15:11:53Z",
+      "open_issues": 5,
       "owner": "droptheplot",
       "repo": "awesome-phoenix",
-      "stars": 616
+      "stars": 616,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "elixir",
+        "elixir-lang",
+        "elixir-phoenix",
+        "phoenix",
+        "phoenix-framework"
+      ]
     },
     "original_repository_sha": "ae4f223933193aae67d747726c254bd65b6ef6f1",
     "enhanced_repository": "enhansome/enhansome-phoenix",
