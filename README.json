@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "sergiotapia",
             "repo": "magnetissimo",
-            "stars": 3092,
+            "stars": 3093,
             "topics": [
               "bittorrent",
               "p2p",
@@ -46,7 +46,7 @@
             "open_issues": 8,
             "owner": "thechangelog",
             "repo": "changelog.com",
-            "stars": 2768,
+            "stars": 2766,
             "topics": [
               "cms",
               "elixir",
@@ -98,7 +98,7 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-08-29T15:56:30Z",
+            "last_commit": "2026-08-30T16:47:58Z",
             "open_issues": 23,
             "owner": "hexpm",
             "repo": "hexpm",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:52:31.917Z",
+    "last_updated": "2026-08-30T16:58:25.364Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
