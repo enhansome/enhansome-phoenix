@@ -8,12 +8,12 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,093 | 🐛 9 | 🌐 Elixir | 📅 2024-01-19 - Web application that indexes all popular torrent sites, and saves it to the local database.
 * [changelog.com ](https://github.com/thechangelog/changelog.com) ⭐ 2,766 | 🐛 8 | 🌐 Elixir | 📅 2026-06-21 - CMS behind [changelog.com](https://changelog.com/).
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) ⭐ 2,495 | 🐛 21 | 🌐 JavaScript | 📅 2018-11-09 - A Trello replica done with Elixir, Phoenix Framework, Webpack, React and Redux.
-* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,170 | 🐛 22 | 🌐 Elixir | 📅 2026-08-31 - API server and website for Hex.
+* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,170 | 🐛 23 | 🌐 Elixir | 📅 2026-09-01 - API server and website for Hex.
 * [Firestorm](https://github.com/dailydrip/firestorm) ⭐ 969 | 🐛 38 | 🌐 Elixir | 📅 2023-09-30 - An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
 * [Cog](https://github.com/operable/cog) ⭐ 920 | 🐛 58 | 🌐 Elixir | 📅 2021-09-08 - Bringing the power of the command line to chat.
 * [Bank Platform](https://github.com/wojtekmach/acme_bank) ⭐ 768 | 🐛 2 | 🌐 Elixir | 📅 2019-09-15 - An example umbrella project.
 * [ExVenture](https://github.com/oestrich/ex_venture) ⚠️ Archived - A text based MMORPG
-* [RemoteRetro](https://github.com/stride-nyc/remote_retro) ⭐ 585 | 🐛 53 | 🌐 Elixir | 📅 2026-05-07 - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org)
+* [RemoteRetro](https://github.com/stride-nyc/remote_retro) ⭐ 585 | 🐛 54 | 🌐 Elixir | 📅 2026-09-01 - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org)
 * [Constable](https://github.com/thoughtbot/constable) ⚠️ Archived - App for posting announcements and having discussions.
 * [Hashrocket Today I Learned](https://github.com/hashrocket/tilex) ⭐ 507 | 🐛 4 | 🌐 Elixir | 📅 2025-11-07 - A Phoenix project by Hashrocket featuring small posts about technology.
 * [Coincoin](https://github.com/robinmonjo/coincoin) ⭐ 399 | 🐛 5 | 🌐 Elixir | 📅 2018-02-15 - Blockchain based cryptocurrency proof-of-concept.
@@ -43,4 +43,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
