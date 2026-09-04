@@ -6,9 +6,9 @@
 Collection of awesome open-source apps made with [Phoenix Framework](http://phoenixframework.org).
 
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,094 | 🐛 9 | 🌐 Elixir | 📅 2024-01-19 - Web application that indexes all popular torrent sites, and saves it to the local database.
-* [changelog.com ](https://github.com/thechangelog/changelog.com) ⭐ 2,767 | 🐛 8 | 🌐 Elixir | 📅 2026-06-21 - CMS behind [changelog.com](https://changelog.com/).
-* [Phoenix Trello](https://github.com/bigardone/phoenix-trello) ⭐ 2,495 | 🐛 21 | 🌐 JavaScript | 📅 2018-11-09 - A Trello replica done with Elixir, Phoenix Framework, Webpack, React and Redux.
-* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,170 | 🐛 25 | 🌐 Elixir | 📅 2026-09-03 - API server and website for Hex.
+* [changelog.com ](https://github.com/thechangelog/changelog.com) ⭐ 2,767 | 🐛 8 | 🌐 Elixir | 📅 2026-09-04 - CMS behind [changelog.com](https://changelog.com/).
+* [Phoenix Trello](https://github.com/bigardone/phoenix-trello) ⭐ 2,494 | 🐛 21 | 🌐 JavaScript | 📅 2018-11-09 - A Trello replica done with Elixir, Phoenix Framework, Webpack, React and Redux.
+* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,170 | 🐛 21 | 🌐 Elixir | 📅 2026-09-04 - API server and website for Hex.
 * [Firestorm](https://github.com/dailydrip/firestorm) ⭐ 969 | 🐛 38 | 🌐 Elixir | 📅 2023-09-30 - An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
 * [Cog](https://github.com/operable/cog) ⭐ 920 | 🐛 58 | 🌐 Elixir | 📅 2021-09-08 - Bringing the power of the command line to chat.
 * [Bank Platform](https://github.com/wojtekmach/acme_bank) ⭐ 768 | 🐛 2 | 🌐 Elixir | 📅 2019-09-15 - An example umbrella project.
@@ -43,4 +43,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
