@@ -42,7 +42,7 @@
             "id": 48701042,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T17:54:37Z",
+            "last_commit": "2026-09-07T20:28:13Z",
             "open_issues": 8,
             "owner": "thechangelog",
             "repo": "changelog.com",
@@ -99,7 +99,7 @@
             "language": "Elixir",
             "license": null,
             "last_commit": "2026-09-06T16:51:54Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1170,
@@ -575,7 +575,7 @@
             "language": "Elixir",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-02T15:35:18Z",
-            "open_issues": 46,
+            "open_issues": 45,
             "owner": "b310-digital",
             "repo": "mindwendel",
             "stars": 138,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T17:55:11.788Z",
+    "last_updated": "2026-09-08T16:51:21.304Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
