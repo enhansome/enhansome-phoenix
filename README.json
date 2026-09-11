@@ -46,7 +46,7 @@
             "open_issues": 15,
             "owner": "thechangelog",
             "repo": "changelog.com",
-            "stars": 2767,
+            "stars": 2768,
             "topics": [
               "cms",
               "elixir",
@@ -75,7 +75,7 @@
             "open_issues": 21,
             "owner": "bigardone",
             "repo": "phoenix-trello",
-            "stars": 2494,
+            "stars": 2492,
             "topics": [
               "elixir-lang",
               "phoenix-framework",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:41:44.962Z",
+    "last_updated": "2026-09-11T16:46:01.998Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
