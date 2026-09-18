@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "sergiotapia",
             "repo": "magnetissimo",
-            "stars": 3095,
+            "stars": 3096,
             "topics": [
               "bittorrent",
               "p2p",
@@ -98,8 +98,8 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-09-17T13:24:56Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-18T14:51:47Z",
+            "open_issues": 18,
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1170,
@@ -578,7 +578,7 @@
             "open_issues": 45,
             "owner": "b310-digital",
             "repo": "mindwendel",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "brainstorming",
               "design-thinking",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:16:36.801Z",
+    "last_updated": "2026-09-18T16:44:16.892Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
