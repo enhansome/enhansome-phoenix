@@ -98,11 +98,11 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-09-19T23:49:53Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-21T16:40:12Z",
+            "open_issues": 15,
             "owner": "hexpm",
             "repo": "hexpm",
-            "stars": 1170,
+            "stars": 1169,
             "topics": [
               "elixir",
               "hacktoberfest",
@@ -550,7 +550,7 @@
             "open_issues": 6,
             "owner": "gaynetdinov",
             "repo": "ex_money",
-            "stars": 165,
+            "stars": 164,
             "topics": [
               "elixir",
               "personal-finances",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:30:15.912Z",
+    "last_updated": "2026-09-21T18:19:27.112Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
