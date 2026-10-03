@@ -98,11 +98,11 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-10-01T22:26:35Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-03T00:23:31Z",
+            "open_issues": 12,
             "owner": "hexpm",
             "repo": "hexpm",
-            "stars": 1169,
+            "stars": 1170,
             "topics": [
               "elixir",
               "hacktoberfest",
@@ -756,7 +756,7 @@
             "open_issues": 5,
             "owner": "GBH",
             "repo": "loaded.bike",
-            "stars": 50,
+            "stars": 49,
             "topics": [
               "elixir",
               "elixir-phoenix",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:02:34.840Z",
+    "last_updated": "2026-10-03T05:01:36.618Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
