@@ -98,8 +98,8 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-10-08T19:00:21Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-09T17:50:16Z",
+            "open_issues": 11,
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1171,
@@ -214,7 +214,7 @@
             "open_issues": 8,
             "owner": "oestrich",
             "repo": "ex_venture",
-            "stars": 672,
+            "stars": 670,
             "topics": [
               "elixir",
               "mud",
@@ -236,7 +236,7 @@
             "id": 76188623,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-09-28T13:03:32Z",
+            "last_commit": "2026-10-08T20:20:03Z",
             "open_issues": 57,
             "owner": "stride-nyc",
             "repo": "remote_retro",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:01:10.375Z",
+    "last_updated": "2026-10-09T18:31:31.328Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
