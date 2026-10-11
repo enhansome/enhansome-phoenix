@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "sergiotapia",
             "repo": "magnetissimo",
-            "stars": 3100,
+            "stars": 3101,
             "topics": [
               "bittorrent",
               "p2p",
@@ -43,7 +43,7 @@
             "language": "Elixir",
             "license": "NOASSERTION",
             "last_commit": "2026-09-22T00:23:01Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "thechangelog",
             "repo": "changelog.com",
             "stars": 2772,
@@ -98,7 +98,7 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-10-10T14:52:43Z",
+            "last_commit": "2026-10-10T22:40:16Z",
             "open_issues": 11,
             "owner": "hexpm",
             "repo": "hexpm",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:28:34.260Z",
+    "last_updated": "2026-10-11T17:48:04.676Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
