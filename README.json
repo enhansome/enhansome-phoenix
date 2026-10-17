@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "sergiotapia",
             "repo": "magnetissimo",
-            "stars": 3099,
+            "stars": 3100,
             "topics": [
               "bittorrent",
               "p2p",
@@ -98,8 +98,8 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-10-16T14:52:25Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-17T15:48:25Z",
+            "open_issues": 12,
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1173,
@@ -237,7 +237,7 @@
             "language": "Elixir",
             "license": "MIT",
             "last_commit": "2026-10-16T00:32:06Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "stride-nyc",
             "repo": "remote_retro",
             "stars": 586,
@@ -376,7 +376,7 @@
             "open_issues": 1,
             "owner": "Angarsk8",
             "repo": "Loopa-News",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "elixir",
               "phoenix",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:58:36.463Z",
+    "last_updated": "2026-10-17T15:57:11.743Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",

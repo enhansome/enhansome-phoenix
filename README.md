@@ -5,20 +5,20 @@
 
 Collection of awesome open-source apps made with [Phoenix Framework](http://phoenixframework.org).
 
-* [Magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,099 | 🐛 0 | 🌐 Elixir | 📅 2026-10-14 - Web application that indexes all popular torrent sites, and saves it to the local database.
+* [Magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,100 | 🐛 0 | 🌐 Elixir | 📅 2026-10-14 - Web application that indexes all popular torrent sites, and saves it to the local database.
 * [changelog.com ](https://github.com/thechangelog/changelog.com) ⭐ 2,772 | 🐛 13 | 🌐 Elixir | 📅 2026-09-22 - CMS behind [changelog.com](https://changelog.com/).
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) ⭐ 2,491 | 🐛 21 | 🌐 JavaScript | 📅 2018-11-09 - A Trello replica done with Elixir, Phoenix Framework, Webpack, React and Redux.
-* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,173 | 🐛 11 | 🌐 Elixir | 📅 2026-10-16 - API server and website for Hex.
+* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,173 | 🐛 12 | 🌐 Elixir | 📅 2026-10-17 - API server and website for Hex.
 * [Firestorm](https://github.com/dailydrip/firestorm) ⭐ 969 | 🐛 38 | 🌐 Elixir | 📅 2023-09-30 - An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
 * [Cog](https://github.com/operable/cog) ⭐ 920 | 🐛 58 | 🌐 Elixir | 📅 2021-09-08 - Bringing the power of the command line to chat.
 * [Bank Platform](https://github.com/wojtekmach/acme_bank) ⭐ 768 | 🐛 2 | 🌐 Elixir | 📅 2019-09-15 - An example umbrella project.
 * [ExVenture](https://github.com/oestrich/ex_venture) ⚠️ Archived - A text based MMORPG
-* [RemoteRetro](https://github.com/stride-nyc/remote_retro) ⭐ 586 | 🐛 56 | 🌐 Elixir | 📅 2026-10-16 - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org)
+* [RemoteRetro](https://github.com/stride-nyc/remote_retro) ⭐ 586 | 🐛 57 | 🌐 Elixir | 📅 2026-10-16 - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org)
 * [Constable](https://github.com/thoughtbot/constable) ⚠️ Archived - App for posting announcements and having discussions.
 * [Hashrocket Today I Learned](https://github.com/hashrocket/tilex) ⭐ 506 | 🐛 4 | 🌐 Elixir | 📅 2025-11-07 - A Phoenix project by Hashrocket featuring small posts about technology.
 * [Coincoin](https://github.com/robinmonjo/coincoin) ⭐ 399 | 🐛 5 | 🌐 Elixir | 📅 2018-02-15 - Blockchain based cryptocurrency proof-of-concept.
 * [Nectar E-Commerce](https://github.com/vinsol/nectarcommerce) ⭐ 323 | 🐛 9 | 🌐 Elixir | 📅 2017-02-09 - E-commerce Elixir/Phoenix project.
-* [Loopa News](https://github.com/Angarsk8/Loopa-News) ⭐ 320 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-30 - Yet another URL sharing app.
+* [Loopa News](https://github.com/Angarsk8/Loopa-News) ⭐ 321 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-30 - Yet another URL sharing app.
 * [ElixirStatus](https://github.com/rrrene/elixirstatus-web) ⭐ 285 | 🐛 26 | 🌐 Elixir | 📅 2020-09-03 - Community site for Elixir project/blog post/version updates.
 * [ExChat](https://github.com/tony612/exchat) ⭐ 259 | 🐛 3 | 🌐 Elixir | 📅 2018-08-28 - A Slack-like app by Elixir, Phoenix & React (redux)
 * [Code Corps](https://github.com/code-corps/code-corps-api) ⭐ 234 | 🐛 140 | 🌐 Elixir | 📅 2019-02-08 - Elixir/Phoenix API for [Code Corps](https://www.codecorps.org).
@@ -43,4 +43,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
