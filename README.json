@@ -98,7 +98,7 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-10-26T15:56:11Z",
+            "last_commit": "2026-10-27T10:34:42Z",
             "open_issues": 10,
             "owner": "hexpm",
             "repo": "hexpm",
@@ -152,10 +152,10 @@
             "language": "Elixir",
             "license": "NOASSERTION",
             "last_commit": "2021-09-08T19:43:04Z",
-            "open_issues": 58,
+            "open_issues": 57,
             "owner": "operable",
             "repo": "cog",
-            "stars": 920,
+            "stars": 917,
             "topics": [
               "bot-framework",
               "chat-bot",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T18:52:02.424Z",
+    "last_updated": "2026-10-27T18:18:47.819Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
