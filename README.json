@@ -46,7 +46,7 @@
             "open_issues": 9,
             "owner": "thechangelog",
             "repo": "changelog.com",
-            "stars": 2772,
+            "stars": 2773,
             "topics": [
               "cms",
               "elixir",
@@ -98,8 +98,8 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-11-04T20:01:43Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-05T17:49:57Z",
+            "open_issues": 9,
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1172,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:03:36.801Z",
+    "last_updated": "2026-11-05T20:17:20.403Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
