@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "sergiotapia",
             "repo": "magnetissimo",
-            "stars": 3107,
+            "stars": 3108,
             "topics": [
               "bittorrent",
               "p2p",
@@ -188,7 +188,7 @@
             "open_issues": 2,
             "owner": "wojtekmach",
             "repo": "acme_bank",
-            "stars": 768,
+            "stars": 767,
             "topics": [
               "app",
               "bank",
@@ -240,7 +240,7 @@
             "open_issues": 54,
             "owner": "stride-nyc",
             "repo": "remote_retro",
-            "stars": 586,
+            "stars": 585,
             "topics": [
               "agile",
               "elixir",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:43:01.708Z",
+    "last_updated": "2026-11-10T20:01:23.931Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
