@@ -46,7 +46,7 @@
             "open_issues": 9,
             "owner": "thechangelog",
             "repo": "changelog.com",
-            "stars": 2774,
+            "stars": 2775,
             "topics": [
               "cms",
               "elixir",
@@ -98,8 +98,8 @@
             "id": 16328245,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-11-08T22:40:51Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-11T16:46:25Z",
+            "open_issues": 10,
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1173,
@@ -127,7 +127,7 @@
             "open_issues": 38,
             "owner": "firestormforum",
             "repo": "firestorm",
-            "stars": 969,
+            "stars": 970,
             "topics": [
               "dailydrip",
               "elixir",
@@ -578,7 +578,7 @@
             "open_issues": 45,
             "owner": "b310-digital",
             "repo": "mindwendel",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "brainstorming",
               "design-thinking",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:01:23.931Z",
+    "last_updated": "2026-11-11T19:52:19.234Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
