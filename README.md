@@ -5,7 +5,7 @@
 
 Collection of awesome open-source apps made with [Phoenix Framework](http://phoenixframework.org).
 
-* [Magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,109 | 🐛 0 | 🌐 Elixir | 📅 2026-10-18 - Web application that indexes all popular torrent sites, and saves it to the local database.
+* [Magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,109 | 🐛 1 | 🌐 Elixir | 📅 2026-10-18 - Web application that indexes all popular torrent sites, and saves it to the local database.
 * [changelog.com ](https://github.com/thechangelog/changelog.com) ⭐ 2,775 | 🐛 9 | 🌐 Elixir | 📅 2026-10-29 - CMS behind [changelog.com](https://changelog.com/).
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) ⭐ 2,491 | 🐛 21 | 🌐 JavaScript | 📅 2018-11-09 - A Trello replica done with Elixir, Phoenix Framework, Webpack, React and Redux.
 * [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,173 | 🐛 12 | 🌐 Elixir | 📅 2026-11-11 - API server and website for Hex.
@@ -43,4 +43,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
