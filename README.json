@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "sergiotapia",
             "repo": "magnetissimo",
-            "stars": 3108,
+            "stars": 3109,
             "topics": [
               "bittorrent",
               "p2p",
@@ -97,9 +97,9 @@
             "homepage": "https://hex.pm",
             "id": 16328245,
             "language": "Elixir",
-            "license": null,
-            "last_commit": "2026-11-16T21:39:31Z",
-            "open_issues": 11,
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-17T17:02:59Z",
+            "open_issues": 10,
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1173,
@@ -273,7 +273,7 @@
             "open_issues": 27,
             "owner": "thoughtbot",
             "repo": "constable",
-            "stars": 512,
+            "stars": 511,
             "topics": [
               "communication",
               "elixir",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:31:44.972Z",
+    "last_updated": "2026-11-17T21:20:49.792Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
