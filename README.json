@@ -98,7 +98,7 @@
             "id": 16328245,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T17:02:59Z",
+            "last_commit": "2026-11-18T10:35:13Z",
             "open_issues": 10,
             "owner": "hexpm",
             "repo": "hexpm",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:20:49.792Z",
+    "last_updated": "2026-11-18T20:54:27.027Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
