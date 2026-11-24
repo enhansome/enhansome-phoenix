@@ -98,11 +98,11 @@
             "id": 16328245,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T20:55:48Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-24T20:36:15Z",
+            "open_issues": 8,
             "owner": "hexpm",
             "repo": "hexpm",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "elixir",
               "hacktoberfest",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T00:23:24.596Z",
+    "last_updated": "2026-11-24T22:46:38.475Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
