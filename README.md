@@ -8,7 +8,7 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,111 | 🐛 0 | 🌐 Elixir | 📅 2026-10-18 - Web application that indexes all popular torrent sites, and saves it to the local database.
 * [changelog.com ](https://github.com/thechangelog/changelog.com) ⭐ 2,775 | 🐛 9 | 🌐 Elixir | 📅 2026-10-29 - CMS behind [changelog.com](https://changelog.com/).
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) ⭐ 2,491 | 🐛 21 | 🌐 JavaScript | 📅 2018-11-09 - A Trello replica done with Elixir, Phoenix Framework, Webpack, React and Redux.
-* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,172 | 🐛 7 | 🌐 Elixir | 📅 2026-11-20 - API server and website for Hex.
+* [Hexpm](https://github.com/hexpm/hexpm) ⭐ 1,172 | 🐛 7 | 🌐 Elixir | 📅 2026-11-23 - API server and website for Hex.
 * [Firestorm](https://github.com/dailydrip/firestorm) ⭐ 969 | 🐛 38 | 🌐 Elixir | 📅 2023-09-30 - An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
 * [Cog](https://github.com/operable/cog) ⭐ 917 | 🐛 57 | 🌐 Elixir | 📅 2021-09-08 - Bringing the power of the command line to chat.
 * [Bank Platform](https://github.com/wojtekmach/acme_bank) ⭐ 767 | 🐛 2 | 🌐 Elixir | 📅 2019-09-15 - An example umbrella project.
@@ -16,7 +16,7 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [RemoteRetro](https://github.com/stride-nyc/remote_retro) ⭐ 585 | 🐛 54 | 🌐 Elixir | 📅 2026-10-19 - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org)
 * [Constable](https://github.com/thoughtbot/constable) ⚠️ Archived - App for posting announcements and having discussions.
 * [Hashrocket Today I Learned](https://github.com/hashrocket/tilex) ⭐ 506 | 🐛 4 | 🌐 Elixir | 📅 2025-11-07 - A Phoenix project by Hashrocket featuring small posts about technology.
-* [Coincoin](https://github.com/robinmonjo/coincoin) ⭐ 399 | 🐛 5 | 🌐 Elixir | 📅 2018-02-15 - Blockchain based cryptocurrency proof-of-concept.
+* [Coincoin](https://github.com/robinmonjo/coincoin) ⭐ 398 | 🐛 5 | 🌐 Elixir | 📅 2018-02-15 - Blockchain based cryptocurrency proof-of-concept.
 * [Nectar E-Commerce](https://github.com/vinsol/nectarcommerce) ⭐ 323 | 🐛 9 | 🌐 Elixir | 📅 2017-02-09 - E-commerce Elixir/Phoenix project.
 * [Loopa News](https://github.com/Angarsk8/Loopa-News) ⭐ 321 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-30 - Yet another URL sharing app.
 * [ElixirStatus](https://github.com/rrrene/elixirstatus-web) ⭐ 285 | 🐛 26 | 🌐 Elixir | 📅 2020-09-03 - Community site for Elixir project/blog post/version updates.
@@ -43,4 +43,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

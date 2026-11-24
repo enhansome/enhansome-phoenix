@@ -98,7 +98,7 @@
             "id": 16328245,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T13:33:04Z",
+            "last_commit": "2026-11-23T20:55:48Z",
             "open_issues": 7,
             "owner": "hexpm",
             "repo": "hexpm",
@@ -329,7 +329,7 @@
             "open_issues": 5,
             "owner": "robinmonjo",
             "repo": "coincoin",
-            "stars": 399,
+            "stars": 398,
             "topics": [
               "blockchain",
               "cryptocurrency",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T19:58:38.991Z",
+    "last_updated": "2026-11-24T00:23:24.596Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
@@ -824,7 +824,7 @@
       "open_issues": 5,
       "owner": "droptheplot",
       "repo": "awesome-phoenix",
-      "stars": 618,
+      "stars": 617,
       "topics": [
         "awesome",
         "awesome-list",
