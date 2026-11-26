@@ -98,11 +98,11 @@
             "id": 16328245,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T10:00:07Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-26T19:56:10Z",
+            "open_issues": 7,
             "owner": "hexpm",
             "repo": "hexpm",
-            "stars": 1173,
+            "stars": 1174,
             "topics": [
               "elixir",
               "hacktoberfest",
@@ -373,7 +373,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2017-01-30T06:58:03Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Angarsk8",
             "repo": "Loopa-News",
             "stars": 321,
@@ -578,7 +578,7 @@
             "open_issues": 45,
             "owner": "b310-digital",
             "repo": "mindwendel",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "brainstorming",
               "design-thinking",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T21:59:17.696Z",
+    "last_updated": "2026-11-26T21:56:46.315Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
