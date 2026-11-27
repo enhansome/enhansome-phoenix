@@ -240,7 +240,7 @@
             "open_issues": 54,
             "owner": "stride-nyc",
             "repo": "remote_retro",
-            "stars": 585,
+            "stars": 586,
             "topics": [
               "agile",
               "elixir",
@@ -574,7 +574,7 @@
             "id": 331086181,
             "language": "Elixir",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-28T15:35:14Z",
+            "last_commit": "2026-11-27T07:33:22Z",
             "open_issues": 45,
             "owner": "b310-digital",
             "repo": "mindwendel",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:56:46.315Z",
+    "last_updated": "2026-11-27T21:39:16.931Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
